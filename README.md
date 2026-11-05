@@ -1,4 +1,4 @@
-# SGD-Classifier
+# Ex 07 - Implementation of Logistic Regression Using SGD Classifier
 ## AIM:
 To write a program to predict the type of species of the Iris flower using the SGD Classifier.
 
